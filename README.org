@@ -1,0 +1,4 @@
+#+title: K.E.Baby (Killer Evil Baby)
+#+description: Our ShefJam 9 entry
+
+A game where you raise and genetically create killer babies to annihilate humankind.
