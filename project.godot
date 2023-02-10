@@ -20,7 +20,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="ShefJam_9"
+config/name="ShefJam-9"
 config/icon="res://icon.png"
 
 [gdnative]
