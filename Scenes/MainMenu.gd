@@ -9,7 +9,7 @@ extends Control
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	$MarginContainer/VBoxContainer/VBoxContainer/MarginContainer/PlayButton.connect("pressed", self, "_play_button_pressed")	
-	$MarginContainer/VBoxContainer/VBoxContainer/MarginContainer2/PlayButton2.connect("pressed", self, "_play_button_pressed")	
+	$MarginContainer/VBoxContainer/VBoxContainer/MarginContainer2/PlayButton2.connect("pressed", self, "_credit_button_pressed")	
 	$AnimationPlayer.play("FadeIn")
 	yield(get_tree().create_timer(1.5), "timeout")
 	$ColorRect.visible = false
