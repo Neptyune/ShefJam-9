@@ -54,8 +54,6 @@ func _process(_delta):
 		# add the select
 		# equip
 		# go to next stage
-	
-#	pass
 
 
 func _on_rightbutton_pressed():
