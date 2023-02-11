@@ -2,3 +2,6 @@
 #+description: Our ShefJam 9 entry
 
 A game where you raise and genetically create killer babies to annihilate humankind.
+
+** Credits
++ [[https://www.freepik.com/free-vector/chemical-lab-science-research-experiments_28161847.htm#query=scientist%20lab&position=10&from_view=keyword&track=ai][Main menu background]]
