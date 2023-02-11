@@ -10,8 +10,8 @@ script = ExtResource( 3 )
 [node name="Background" type="Node2D" parent="."]
 
 [node name="TextureRect" type="TextureRect" parent="Background"]
-margin_right = 1023.0
-margin_bottom = 1023.0
+margin_right = 1920.0
+margin_bottom = 1080.0
 texture = ExtResource( 1 )
 expand = true
 
