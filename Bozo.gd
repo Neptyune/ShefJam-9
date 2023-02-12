@@ -2,6 +2,7 @@ extends KinematicBody2D
 
 
 # Vars
+var health = 3
 var speed = 60
 var velocity = Vector2.ZERO
 onready var player = get_parent().get_node("Player")
